@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+  
+}
+h2,h3 {
+    background-color : red;
+}
+h1,h2,h3,h4,h5,h6{
+    color: blue ;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: “Times New Roman”, Times, serif;
+
+
+}
+#biografia{
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+
+
+}
+#biografia{
+    Justify-content: center;
+}
+th{
+    background-color: lightblue;
+
+}
