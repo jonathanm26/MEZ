@@ -1,28 +1,59 @@
-h1{
-    text-align: center;
-  
+header{
+    height: 250px;
+    width: 750px;
 }
-h2,h3 {
-    background-color : red;
+#banner{
+    width:500px;
+    height: 250px;
+    background-color: blue;
+    float: left;
 }
-h1,h2,h3,h4,h5,h6{
-    color: blue ;
-
+#logo{
+    width: 250px;
+    height: 125px;
+    background-color: red;
+    float: right;
 }
-h1,h2,h3,h4,h5,h6{
-    font-family: “Times New Roman”, Times, serif;
-
-
+#fotologo{
+    height: 120px;
+    width: 245px;
 }
-#biografia{
-    font-family: "Arial", Arial, Helvetica, sans-serif;
-
-
+#login{
+    width: 250px;
+    height: 125px;
+    background-color: green;
+    float: right;
 }
-#biografia{
-    Justify-content: center;
+nav{
+    height: 50px;
+    width: 750px;
+    background-color:crimson;
 }
-th{
-    background-color: lightblue;
-
+#main{
+    height: 400px;
+    width: 750px;
+    background-color: maroon;
+}
+#aside_left{
+    height: 400px;
+    width: 150px;
+    background-color: gold;
+    float: left;
+}
+#article{
+    height: 400px;
+    width: 500px;
+    background-color:silver;
+    float: left;
+}
+#aside_right{
+    height: 400px;
+    width: 100px;
+    background-color:burlywood;
+    float: left;
+}
+footer{
+    height: 50px;
+    width: 750px;
+    background-color: magenta;
 }
